@@ -1,0 +1,15 @@
+# Build and compiler outputs
+build/
+*.o
+*.bin
+*.exe
+*.img
+
+# Logs and temp files
+*.log
+preprocess.txt
+.vscode/
+
+# Copyrighted game data (should be downloaded separately by users)
+*.wad
+*.WAD
